@@ -118,7 +118,6 @@ class GMAIL_EXTRACTOR():
             mailList.append(jsonOutput)
             
         # Salvar dados 
-        print(mailList)
         df = pd.DataFrame.from_records(mailList)
         df.to_csv(emailInfoFilePath, sep=';', index=False, encoding='utf-8')
 
