@@ -13,6 +13,7 @@ Emails são uma fonte de informações muito importante de toda empresa, já que
 * sys
 * pathlib2
 * BeautifulSoup
+* base64
 * pandas
 
 **OBS: O Script está setado para o servidor de email do gmail, mas pode ser usado em outros servidores imap.**
