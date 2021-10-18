@@ -1,4 +1,4 @@
-# Extração de dados de emails 
+# Extração de dados de emails :incoming_envelope: :bar_chart:
 ### Script python para a coleta de dados de email.
 Emails são uma fonte de informações muito importante de toda empresa, já que a troca de emails para tratar de diversos assuntos de négocios e rotina de trabalho é constante. Coletar e tratar esses dados é muito importante para gerar insights, relatórios para tomada de decisão.
 ### Pipline de dados:
@@ -8,7 +8,7 @@ Emails são uma fonte de informações muito importante de toda empresa, já que
 
 ### Dependências:
 * imaplib 
-* email
+*  email
 * getpass
 * sys
 * pathlib2
